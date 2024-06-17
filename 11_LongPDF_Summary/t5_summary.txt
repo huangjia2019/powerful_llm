@@ -1,0 +1,1 @@
+TinyLlama is a compact 1.1B language model pretrained on around 1 trillion tokens for approximately 3 epochs. despite its relatively small size, it significantly outperforms existing open-source language models with compara- ble sizes.
